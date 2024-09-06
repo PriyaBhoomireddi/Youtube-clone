@@ -30,5 +30,5 @@ document.getElementById('searchButton').addEventListener('click', () => {
 });
 
 window.onload = () => {
-    fetchVideos(); // Fetch videos on page load
+    fetchVideos(); 
 };
